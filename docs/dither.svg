@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="425" height="77" viewBox="0 0 425 77" role="img" aria-label="Loading your dashboard" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="28" xml:space="preserve">
+<title>Loading your dashboard</title>
+<style>@keyframes f{0%{opacity:1}2.6856%{opacity:0}100%{opacity:0}}@keyframes l{0%{opacity:1}78.5149%{opacity:1}78.5150%{opacity:0}100%{opacity:0}}g{opacity:0;animation:f 3165ms steps(1,end) infinite}g.z{animation-name:l}@media (prefers-reduced-motion:reduce){g{animation:none!important}g.z{opacity:1}}</style>
+<rect width="100%" height="100%" rx="12" fill="#0d1117"/>
+<g style="animation-delay:0ms"></g>
+<g style="animation-delay:85ms"><text x="28.0 61.6 78.4 95.2" y="49.8" fill="#7d8590">▒░░░</text></g>
+<g style="animation-delay:170ms"><text x="28.0 44.8 61.6 78.4 95.2 112.0 128.8 179.2 196.0" y="49.8" fill="#7d8590">▓▒▓▒▒░▒░▒</text></g>
+<g style="animation-delay:255ms"><text x="28.0 44.8 61.6 78.4 95.2 112.0 128.8 162.4 179.2 196.0 212.8 246.4 263.2 296.8 330.4" y="49.8" fill="#7d8590">█████▓▒▒▓▒░░░░░</text></g>
+<g style="animation-delay:340ms"><text x="28.0 44.8 61.6 78.4 95.2 112.0 128.8 162.4 179.2 196.0 212.8 246.4 263.2 280.0 296.8 313.6 330.4 347.2 380.8" y="49.8" fill="#7d8590">▒▓▒█▒▓█▓▒█▓▒▓▒█▓░░▓</text></g>
+<g style="animation-delay:425ms"><text x="28.0 44.8 95.2 179.2" y="49.8" fill="#e6edf3">Loio</text><text x="61.6 78.4 112.0 128.8 162.4 196.0 212.8 246.4 263.2 280.0 296.8 313.6 330.4 347.2 364.0 380.8" y="49.8" fill="#7d8590">░▒░░▓▒██░█░█▓▒▓█</text></g>
+<g style="animation-delay:510ms"><text x="28.0 44.8 61.6 78.4 95.2 112.0 128.8 162.4 179.2 196.0 263.2 296.8 313.6 380.8" y="49.8" fill="#e6edf3">Loadingyouahbd</text><text x="212.8 246.4 280.0 330.4 347.2 364.0" y="49.8" fill="#7d8590">▒█░██▓</text></g>
+<g style="animation-delay:595ms"><text x="28.0 44.8 61.6 78.4 95.2 112.0 128.8 162.4 179.2 196.0 246.4 263.2 280.0 296.8 313.6 364.0 380.8" y="49.8" fill="#e6edf3">Loadingyoudashbrd</text><text x="212.8 330.4 347.2" y="49.8" fill="#7d8590">░██</text></g>
+<g class="z" style="animation-delay:680ms"><text x="28.0 44.8 61.6 78.4 95.2 112.0 128.8 162.4 179.2 196.0 212.8 246.4 263.2 280.0 296.8 313.6 330.4 347.2 364.0 380.8" y="49.8" fill="#e6edf3">Loadingyourdashboard</text></g>
+</svg>

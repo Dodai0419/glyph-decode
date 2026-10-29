@@ -1,0 +1,13 @@
+{
+  "name": "glyph-decode",
+  "owner": {
+    "name": "Dodai0419"
+  },
+  "plugins": [
+    {
+      "name": "glyph-decode",
+      "source": "./",
+      "description": "Give your README a title that decodes itself out of glyph noise, as one animated SVG."
+    }
+  ]
+}
